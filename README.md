@@ -11,6 +11,11 @@ This repository contains a statistical analysis project from Universidad de la H
 - **Data Clustering**: Identifying natural groupings of countries based on their well-being indicators using machine learning techniques
 - **Statistical Hypothesis Testing**: Testing hypotheses about happiness variations across regions and populations
 
+## Project Presentation
+
+You can view the full presentation of the results in Gamma:
+[View Presentation](https://gamma.app/docs/Preguntas-de-Investigacion-wmxzxs95e0xlz7q)
+
 ## Repository Structure
 
 ```
